@@ -9,3 +9,5 @@
 - [query chanheePark](./chanheepark/w3schools/where_and_not.sql)  
 - [query seonahYun](./SeonahYun/w3schools/where_and_not.sql)
 
+### Employees_Order_totals.sql
+- [query chanheePark](./chanheepark/w3schools/Employees_Order_totals.sql)
