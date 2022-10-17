@@ -6,6 +6,6 @@
 
 
 ### where_and_not : and 이용해 활용
-- [query chanheePark](./chanheepark/w3schools/where_and_not.sql)
--[query seonahYun](./SeonahYun/w3schools/where_and_not.sql)
+- [query chanheePark](./chanheepark/w3schools/where_and_not.sql)  
+- [query seonahYun](./SeonahYun/w3schools/where_and_not.sql)
 
