@@ -11,3 +11,4 @@
 
 ### Employees_Order_totals.sql
 - [query chanheePark](./chanheepark/w3schools/Employees_Order_totals.sql)
+- [query seonahYun](./SeonahYun/w3schools/Employees_Order_totals.sql)
