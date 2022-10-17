@@ -1,8 +1,10 @@
 # study_SQLs
 study_SQLs
-
+끼워넣기 짝수
 끼워넣기 홀수
 seonah
 chanhee
-두번째 끼워넣기 홀수
+두번째 끼워넣기 짝수
 짝수 기록
+홀수 기록
+
