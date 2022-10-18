@@ -16,3 +16,6 @@
 ### Categories_Products_totals.sql
 - [query chanheePark](./chanheepark/w3schools/Categories_Products_totals.sql)
 - [query seonahYun](./SeonahYun/w3schools/Categories_Products_totals.sql)
+
+### CategoryName_Products.sql
+- [query seonahYun](./SeonahYun/w3schools/CategoryName_Products.sql)
