@@ -26,4 +26,7 @@
 - [query chanheePark](./chanheepark/w3schools/CategoryName_Products_Order.sql)
 - [query seonahYun](./SeonahYun/w3schools/CategoryName_Products_Order.sql)
 
+
+### Categories_Products_Count.sql
+- [query chanheePark](./chanheepark/w3schools/Categories_Products_Count.sql)
 -[query seonahYun](./SeonahYun/w3schools/Categorides_Products_Count.sql)
