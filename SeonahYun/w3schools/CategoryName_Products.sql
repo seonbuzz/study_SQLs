@@ -5,5 +5,5 @@ WHERE CATEGORYID IN (SELECT CATEGORYID
                     WHERE Categoryname IN('Dairy Products', 'Seafood'))
                     AND Price BETWEEN 10 AND 50;
 
-                    -- 28.866364
-                    -- 2222.71
+                    -- AVG(Price)	SUM(Price)
+                        24.396250	390.34
