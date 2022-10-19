@@ -36,3 +36,5 @@
 - [query seonahYun](./SeonahYun/w3schools/Products_HAVING.sql)
 - [query chanheePark](./chanheepark/w3schools/Products_HAVING.sql)
 
+### Users_Auths_query.sql
+- [query seonahYun](./SeonahYun/SQL_query/Users_Auths_query.sql)
