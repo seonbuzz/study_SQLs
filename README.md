@@ -38,3 +38,6 @@
 
 ### Users_Auths_query.sql
 - [query seonahYun](./SeonahYun/SQL_query/Users_Auths_query.sql)
+- [query chanheePark](./chanheepark/w3schools/Users_Auths_query.sql)
+
+
