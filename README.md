@@ -51,3 +51,4 @@
 
 ### Users_Auth_names.sql
  - [query seonahYun](./SeonahYun/SQL_query/Users_Auth_names.sql)
+ - [query chanheePark](./chanheepark/w3schools/Users_Auths_query.sql)
