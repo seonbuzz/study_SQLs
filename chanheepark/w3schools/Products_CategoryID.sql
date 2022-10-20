@@ -1,5 +1,5 @@
 SELECT Products.ProductName, Suppliers.SupplierName
-FROM Suppliers INNER JOIN Products
-ON  Suppliers.SupplierID = Products.SupplierID
-AND Products.ProductID = 5 OR Products.ProductID = 6;
--- 30개
+FROM Products INNER JOIN Suppliers
+ON Products.SupplierID = Suppliers.SupplierID
+AND Products.CategoryID IN (5, 6);
+-- 13
