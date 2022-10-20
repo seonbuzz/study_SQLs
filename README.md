@@ -41,3 +41,5 @@
 - [query chanheePark](./chanheepark/w3schools/Users_Auths_query.sql)
 
 
+### Products_CategoryID.sql
+- [query seonahYun](./SeonahYun/w3schools/Products_CategoryID.sql)
