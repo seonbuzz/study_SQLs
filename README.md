@@ -44,3 +44,6 @@
 ### Products_CategoryID.sql
 - [query seonahYun](./SeonahYun/w3schools/Products_CategoryID.sql)
 - [query chanheePark](./chanheepark/w3schools/Products_CategoryID.sql)
+
+### Products_Quantity
+- [query chanheePark](./chanheepark/w3schools/Products_Quantity.sql)
