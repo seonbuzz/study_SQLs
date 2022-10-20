@@ -48,3 +48,6 @@
 ### Products_Quantity.sql
 - [query chanheePark](./chanheepark/w3schools/Products_Quantity.sql)
 - [query seonahYun](./SeonahYun/w3schools/Products_Quantity.sql)
+
+### Users_Auth_names.sql
+ - [query seonahYun](./SeonahYun/SQL_query/Users_Auth_names.sql)
